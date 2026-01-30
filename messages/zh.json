@@ -308,41 +308,5 @@
       "title4": "复杂负担转变为竞争优势",
       "btn": "预约演示"
     }
-  },
-  "ContactPage": {
-    "badge": "联系我们",
-    "title": "联系我们",
-    "description": "有问题或想了解更多？填写下方表格，我们的团队将尽快与您联系。",
-    "form": {
-      "firstName": "名",
-      "firstNamePlaceholder": "请输入您的名",
-      "lastName": "姓",
-      "lastNamePlaceholder": "请输入您的姓",
-      "email": "邮箱地址",
-      "emailPlaceholder": "your@email.com",
-      "company": "公司名称",
-      "companyPlaceholder": "您的公司",
-      "subject": "主题",
-      "subjectPlaceholder": "请选择主题",
-      "subjects": {
-        "general": "一般咨询",
-        "partnership": "合作机会",
-        "support": "技术支持",
-        "enterprise": "企业解决方案",
-        "other": "其他"
-      },
-      "message": "留言",
-      "messagePlaceholder": "请告诉我们如何为您提供帮助...",
-      "submit": "发送消息",
-      "sending": "发送中..."
-    },
-    "success": {
-      "title": "消息已发送！",
-      "message": "感谢您的留言，我们将在 24-48 小时内回复您。",
-      "sendAnother": "发送另一条消息"
-    },
-    "error": {
-      "message": "发生错误，请稍后重试。"
-    }
   }
 }

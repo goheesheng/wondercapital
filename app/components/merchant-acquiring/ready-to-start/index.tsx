@@ -27,7 +27,7 @@ const ReadyToStart = ({ ReadyToStartSecRef }: any) => {
               {t("readytostart.title4")}
             </p>
             <Link
-              href="/contact"
+              href="mailto:contactus@wondercapital.group"
               className="inline-flex flex-row items-center justify-center gap-2 w-auto px-4 py-1.5 md:py-2.5 rounded-lg bg-white text-black font-semibold text-base md:text-base lg:text-lg hover:bg-[#ffc522] hover:scale-105 transition-all duration-300 shadow-lg mx-auto lg:mx-0"
             >
               {t("readytostart.btn")}

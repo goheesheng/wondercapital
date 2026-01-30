@@ -274,7 +274,7 @@ const Header = () =>{
 
               <Link
                 className="text-lg xl:text-[18px] text-white font-medium hover:text-[#ffc522] transition-colors duration-300"
-                href="/contact"
+                href="#contact"
               >
                 {t("nav.contact")}
               </Link>
@@ -425,7 +425,7 @@ const Header = () =>{
               </div>
 
               <Link
-                href="/contact"
+                href="#contact"
                 onClick={closeMobileMenu}
                 className="text-2xl text-white font-medium hover:text-[#ffc522] transition-colors"
               >

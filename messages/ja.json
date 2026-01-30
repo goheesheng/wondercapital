@@ -308,41 +308,5 @@
       "title4": "競争優位へ変革",
       "btn": "デモを予約"
     }
-  },
-  "ContactPage": {
-    "badge": "お問い合わせ",
-    "title": "お問い合わせ",
-    "description": "ご質問やお問い合わせがございましたら、以下のフォームにご記入ください。担当者より折り返しご連絡いたします。",
-    "form": {
-      "firstName": "名",
-      "firstNamePlaceholder": "太郎",
-      "lastName": "姓",
-      "lastNamePlaceholder": "山田",
-      "email": "メールアドレス",
-      "emailPlaceholder": "your@email.com",
-      "company": "会社名",
-      "companyPlaceholder": "御社名",
-      "subject": "件名",
-      "subjectPlaceholder": "件名を選択",
-      "subjects": {
-        "general": "一般的なお問い合わせ",
-        "partnership": "パートナーシップ",
-        "support": "技術サポート",
-        "enterprise": "エンタープライズソリューション",
-        "other": "その他"
-      },
-      "message": "メッセージ",
-      "messagePlaceholder": "お問い合わせ内容をご記入ください...",
-      "submit": "送信",
-      "sending": "送信中..."
-    },
-    "success": {
-      "title": "送信完了！",
-      "message": "お問い合わせありがとうございます。24〜48時間以内にご返信いたします。",
-      "sendAnother": "別のメッセージを送信"
-    },
-    "error": {
-      "message": "エラーが発生しました。後ほど再度お試しください。"
-    }
   }
 }
