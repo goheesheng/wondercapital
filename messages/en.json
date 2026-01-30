@@ -1,0 +1,345 @@
+{
+  "HomePage": {
+    "nav": {
+      "about": "About Us",
+      "howItWorks": "How It Works?",
+      "howItWorksNav": {
+        "item1": {
+          "title": "Wonder Company Setup",
+          "desc": "Company Incorporation and Corp Secretary Services"
+        },
+        "item2": {
+          "title": "Virtual Banking Service",
+          "desc": "POS solutions and software / hardware Integration"
+        },
+        "item3": {
+          "title": "Merchant Acquiring",
+          "desc": "Card Issuance and Merchant POS for online payments"
+        }
+      },
+      "contact": "Get In Touch",
+      "selectLanguage": "Select Language"
+    },
+    "hero": {
+      "badge": "PREMIUM DIGITAL WALLET",
+      "title": "Experience Truly",
+      "highlight": "Borderless Banking",
+      "description": "Be the global entrepreneur you've always wanted to be, don't let the financial borders restrain you in transactions. Let us guide you over the first financial hurdle.",
+      "cta": "Contact Us"
+    },
+    "features": {
+      "badge": "OUR FEATURES",
+      "title1": "Your All-in-One",
+      "title2": "Payments Platform",
+      "collectTitle": "Collect Like A Local",
+      "collectDesc": "Get instant access to 33 local account details to receive international payments seamlessly and affordably.",
+      "instantTitle": "Instant Transfers",
+      "more": "and more...",
+      "instantDesc": "Bypass 3-5 day SWIFT delays by swapping and paying directly on our platform.",
+      "trackingTitle": "Real Time Tracking",
+      "trackingDesc": "Issue physical and virtual cards to your team with real-time spending controls. Transactions sync and categorize automatically,streamlining finance operations."
+    },
+    "assurance": {
+      "partner": "Official Partner of",
+      "badge": "OUR ASSURANCE",
+      "title": "Payments Security You Can Trust",
+      "regulatory": "Fund Regulatory and Assurance",
+      "regulatoryDesc1": "We operate in full compliance with the",
+      "regulatoryDesc2": "Payment Services Act 2019 (PSA)",
+      "regulatoryDesc3": " of Singapore.",
+      "safeguarding": "Client Fund Safeguarding",
+      "safeguarding1": "This Segregated client ",
+      "safeguarding2": "trust account acts as escrow, ",
+      "safeguarding3": "meaning client's interest is fully protected and cannot be used for corporate operations."
+    },
+    "comparison": {
+      "badge": "COMPARISON",
+      "title": "Clear choice in Speed & Cost Advantage",
+      "col1": "Wonder Capital",
+      "col2": "Traditional SWIFT",
+      "col1value1": "Swap currencies instantly in our wallet platform without fees",
+      "col1value2": "Immediate / Same Day",
+      "col1value3": "Competitive, upfront FX spreads with no hidden charges",
+      "col1value4": "Cost-effective and transparent. We manage the complexity for you",
+      "col2value1": "Some exchange rate \"fees\" and may have exchange limits",
+      "col2value2": "3 - 5 Business Days",
+      "col2value3": " Around 35 - 45 USD charges incl. TT fees, bank fees, card fees",
+      "col2value4": "You manage the complexity and any costs incurred in each step"
+    },
+    "usecases": {
+      "title": "Use Cases",
+      "description": "Powering Day-to-Day Operations",
+      "description2": "Solving daily common business challenges altogether",
+      "item1": {
+        "title": "Swift & Low Cost Remittance",
+        "description1": "Send salaries to remote teams",
+        "description2": "Handle overseas claims",
+        "description3": "Reconciliation to your currency",
+        "description4": "Receive funding / capital"
+      },
+      "item2": {
+        "title": "Pay International Freelancers / Contractors",
+        "description1": "Hire top talents globally",
+        "description2": "Pay outsourced one-time fees",
+        "description3": "Settle project milestones",
+        "description4": "Handling deposits and refunds"
+      },
+      "item3": {
+        "title": "Managing Recurring Suppliers / Subscriptions",
+        "description1": "Software and service payments",
+        "description2": "Monthly recurring retainers",
+        "description3": "Invoice settlements",
+        "description4": "Procurement of materials / goods."
+      }
+    },
+    "cta": {
+      "title": "Ready to Unlock",
+      "highlight": "Worldwide Banking?",
+      "line1": "Operate with the confidence of same-day local",
+      "line2": "payment speed across the world"
+    },
+    "footer": {
+      "email": "Email",
+      "phone": "Phone",
+      "description": "WonderCapital provides modern digital banking for today's fast-paced world. Secure. Smart. Simple.",
+      "copyright": "© Copyright 2026. All Rights Reserved. Wonder Capital Limited."
+    }
+  },
+  "MarchantAcquiring": {
+    "hero": {
+      "badge": "MERCHANT ACQUIRING",
+      "title": "Accept Payments Globally",
+      "title2": "Settle Faster. Grow Without Borders.",
+      "btn": "Begin Now"
+    },
+    "usecase": {
+      "badge": "USE CASES",
+      "title": "Built for Modern Businesses",
+      "item1":"E-Commerce", 
+      "item2":"Retail Stores", 
+      "item3":"SaaS", 
+      "item4":"Education", 
+      "item5":"Travel", 
+      "item6":"Digital Services", 
+      "item7":"Lifestyle", 
+      "item8":"F & B" 
+    },
+    "overview": {
+      "badge": "OVERVIEW",
+      "title": "What is Merchant Acquiring?",
+      "desc": "Merchant acquiring is the service that enables your business to accept card payments (Visa, Mastercard, etc.) from customers and receive funds directly into your settlement account. While it sounds simple, there are many processes.",
+      "item1": "What we handle behind the scenes:",
+      "item2": "Payment Authorization",
+      "item3": "Card Network Processing",
+      "item4": "Fraud Monitoring",
+      "item5": "Settlements and Payouts",
+      "item6": "Business Compliance",
+      "item7": "Risk Management",
+      "item8": "Chargebacks / Refunds",
+      "item9": "Audits and Bookkeep",
+      "item10": "API Integrations"
+    },
+    "readytostart": {
+      "title1": "Ready to Start",
+      "title2": " Accepting Payments?",
+      "title3": "We’re not just a payment processor -",
+      "title4": "We’re your payments growth partner.",
+      "btn": "Talk to Our Team"
+    },
+    "whatyouget": {
+      "badge": "WHAT YOU GET?",
+      "title": "Payment Infrastructure Businesses Need",
+      "desc": " Power your business with a modern merchant acquiring solution that enables you to accept payments, settle and swap funds fast, secured and compliant. Let us handle the complexities.",
+      "card1": "Global Card Acceptance",
+      "card1Desc1": "Accept payments from",
+      "card1Desc2": "major card networks worldwide",
+      "card1Desc3": "successfully with intelligent routing and optimized processing to",
+      "card1Desc4": " reduce false declines.",
+      "card2": "Powerful Platform with Competitive Fees",
+      "card2Desc1": "Get ",
+      "card2Desc2": "paid faster with shorter escrow ",
+      "card2Desc3": "hat improves cash flow for your business on our platform. Transparent pricing with",
+      "card2Desc4": " close to zero FX swap fees",
+      "card3": "Fund Regulatory and Compliance",
+      "card3Desc1": "We operate in full compliance with the",
+      "card3Desc2": "Payment Services Act 2019 (PSA)",
+      "card3Desc3": " of Singapore. With advanced fraud monitoring.",
+      "card4": "Client Fund Safeguarding",
+      "card4Desc1": "This segregated client",
+      "card4Desc2": " trust account acts as escrow,",
+      "card4Desc3": " meaning client’s interest is fully protected and cannot be used for our corporate operations."
+    }
+  },
+  "WonderSetup": {
+    "hero": {
+      "badge": "INCORPORATION",
+      "title": "Your Business in Singaporey",
+      "highlight": "Built Fast, Launched Right.",
+      "cta": "Begin Now"
+    },
+    "WhyUs": {
+      "badge": "WHY US ",
+      "title1": "Your Complete Foundation",
+      "title2": "It's a Wonder We Remain Unmatched",
+      "desc": "Setting up a company shouldn't be a bureaucratic marathon. At Wonder Capital, we streamline every step — from legal registration to banking and operational setup — into one seamless, rapid process. We don't just file paperwork; we build the essential foundation your company needs to start trading, hiring, and growing immediately.",
+      "card1": "Our Promise",
+      "card1sub": "3-Day Guaranteed Incorporation",
+      "card1Desc1": "We are so confident in our process that if your company is not successfully ",
+      "card1Desc2": "incorporated within 3 business days ",
+      "card1Desc3": "of receiving all required documents, you will receive ",
+      "card1Desc4": "a 100% full refund.",
+      "card2": "Our Ethics",
+      "card2sub": "No Confusing Hidden Fees",
+      "card2Desc1": "We believe in radical transparency. You get a single, ",
+      "card2Desc2": "all-inclusive package with a clear price ",
+      "card2Desc3": "that covers you in all the setup. Just tell us what you need, and we'll even get your website and working passes done."
+    },
+    "WhyHere": {
+      "badge": "WHY HERE",
+      "title1": "Setting Up Your Global HQ in Singapore",
+      "desc": "Singapore is consistently ranked the world's #1 place to do business. Incorporating here isn't just about forming a company; it's about positioning your venture for exponential growth with unparalleled advantages.",
+      "card1": "Strategic & Financial Advantages",
+      "card1Title": "Pro-Business Tax Regime",
+      "card1Desc": "Benefit from one of the world’s most attractive tax systems, including exemptions for new startups.",
+      "card2Title": "Gateway to Global Marketse",
+      "card2Desc": "A sterling international reputation, strategic location in Asia, and world class connectivity.",
+      "button": "Tell Me More",
+      "card3": "Operational & Lifestyle Benefits",
+      "card3Title": "World Class Talent Pool",
+      "card3Desc": " Tap into a highly educated, multilingual and professional workforce to build your team.",
+      "card3Title1": "Political & Economic Stability",
+      "card3Desc1": "Operate with confidence in a country that is protected geographically from natural disasters with a strong rule"
+    },
+    "process": {
+      "badge": "THE PROCESS",
+      "title": "From Vision to Operation Entity in 3 Steps",
+      "title1": "Consultation",
+      "description1": "Submit your company details and documents to us via our secure portal.",
+      "title2": "Instantiate",
+      "description2": "We submit your application to ACRA. Our guarantee clock starts here.",
+      "title3": "Incorporate",
+      "description3": "Upon approval, we activate your corporate secretary, bank and card applications."
+    },
+    "WhatYouGet": {
+      "badge": "WHAT YOU GET",
+      "title": "The All-in-One Wonder Capital",
+      "title1": "Incorporation Package",
+      "card1": "Company Registration",
+      "desc1": "From ACRA submission to virtual address application",
+      "card2": "Nominee Directors",
+      "desc2": "Appoint a trusted local to meet incorporation requirements",
+      "card3": "Visa & Employment",
+      "desc3": "Pass Over 10 years of experience, with > 99% approval rate",
+      "card4": "Corporate Banking",
+      "desc4": "Get your DBS bank account live in one smooth flow",
+      "card5": "Website Deployment",
+      "desc5": "Providing you a free website to start your online presence",
+      "card6": "Card Issuance",
+      "desc6": "Providing you a black DCS CEO card for corporate spending"
+    },
+    "ReadyToLuanch": {
+      "badge": "Ready to Launch",
+      "title1": " Your Singapore Venture?",
+      "title2": "Stop navigating complex foreign systems.",
+      "title3": "Start building your business.",
+      "btn": "Contact Us"
+    }
+  },
+  "digitalPayment": {
+    "hero": {
+      "main": "Two Powerful Engines for Your Cashflow",
+      "title1": "REVENUE",
+      "title1desc1": "Accept Global Payments",
+      "title1desc2": "Get paid anywhere, anyway",
+      "title2": "EXPENSES",
+      "title2desc1": "Smart Corporate Cards Issuance",
+      "title2desc2": "Spend with control and insights"
+    },
+    "companycard": {
+      "badge": "COMPANY CARD",
+      "title": "ONLINE TRANSFERS",
+      "title1": "Handle All Your Outgoing",
+      "title2": "Expenditure in One Place",
+      "desc": "Move beyond clunky reimbursements and manual spreadsheets. Issue physical or virtual cards to empower your team while maintaining oversight.",
+      "card1": "Real-Time Expense Tracking",
+      "card1Desc1": "See every transaction the moment it happens in the dashboard",
+      "card1Desc2": "Transactions are intelligently tagged and categorized",
+      "card1Desc3": "Add funds to your card fast with industry-leading exchange rates",
+      "card1Desc4": "No fees and hidden surprises when you do any of the above",
+      "card2": "Expenditure Use Cases",
+      "card2Desc1": "Remittances and Salaries",
+      "card2Desc2": "Claims / Freelancers / Projects",
+      "card2Desc3": "Software Subscriptions / Retainers",
+      "card2Desc4": "Your Time in Audits / Bookkeeping"
+    },
+    "paymentlinks": {
+      "badge": "PAYMENT LINKS",
+      "title": "POS SYSTEM",
+      "title1": "The Platform For Your",
+      "title2": "Incoming Cash Flow and Revenue",
+      "desc": "Our omni-channel payments platform allows you to receive funds through various online payment methods and face-to-face via the POS system",
+      "card": "Supported Currencies",
+      "cardDesc": "Receive payments online in 33 currencies and reconciliate in your preferred one",
+      "more": "and more...",
+      "card2": "Supported Networks",
+      "card2Desc": "Collect payments online through all major card networks and digital wallets"
+    },
+    "questions": {
+      "badge": "QUESTIONS",
+      "title": "Frequently Asked Questions",
+      "question1": "What are the fees involved when sending and receiving funds?",
+      "answer1": "Our transparent fee structure includes competitive rates for both sending and receiving funds. Domestic transfers typically have lower fees compared to international transactions. Please contact our team for detailed pricing specific to your business needs.",
+      "question2": "How quickly can I get my cards or POS system for my team?",
+      "answer2": "Virtual Cards are instantly created and can be issued immediately to your staff within minutes via your dashboard. Physical cards are delivered within 5-7 business days. POS system will require the same 3 - 5 business days and are subjected to availability. Do note that you may need remote training on the use of the POS hardware and software, that can be arranged as well upon leasing our POS systems.",
+      "question3": "Can I connect the payment gateway to my website or App?",
+      "answer3": "Yes, our payment gateway offers seamless integration with most websites and mobile applications. We provide comprehensive API documentation and developer support to ensure smooth integration. Our technical team is available to assist you throughout the setup process.",
+      "question4": "What happens if I lose or damage the issued cards / POS systems?",
+      "answer4": "Lost or stolen cards can be immediately frozen through your dashboard to prevent unauthorized use. We'll issue replacement cards within 3-5 business days. For damaged POS systems, we offer repair services or replacements depending on the warranty terms. Contact our support team immediately to report any issues.",
+      "question5": "How does this help with my yearly accounting / bookkeeping?",
+      "answer5": "Our platform automatically categorizes and tracks all transactions, making it easy to generate financial reports for accounting purposes. You can export transaction data in various formats compatible with popular accounting software. This streamlined process saves time and reduces errors in your yearly accounting and bookkeeping tasks."
+    },
+    "readystrams": {
+      "title1": "Ready to Streamline",
+      "title2": " Your Finances?",
+      "title3": "Transform your business finances from a source of",
+      "title4": " complexity into your greatest competitive advantage",
+      "btn": "Schedule Demo"
+    }
+  },
+  "ContactPage": {
+    "badge": "GET IN TOUCH",
+    "title": "Contact Us",
+    "description": "Have questions or want to learn more? Fill out the form below and our team will get back to you shortly.",
+    "form": {
+      "firstName": "First Name",
+      "firstNamePlaceholder": "John",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@company.com",
+      "company": "Company Name",
+      "companyPlaceholder": "Your Company",
+      "subject": "Subject",
+      "subjectPlaceholder": "Select a subject",
+      "subjects": {
+        "general": "General Inquiry",
+        "partnership": "Partnership Opportunity",
+        "support": "Technical Support",
+        "enterprise": "Enterprise Solutions",
+        "other": "Other"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "submit": "Send Message",
+      "sending": "Sending..."
+    },
+    "success": {
+      "title": "Message Sent!",
+      "message": "Thank you for reaching out. We'll get back to you within 24-48 hours.",
+      "sendAnother": "Send Another Message"
+    },
+    "error": {
+      "message": "Something went wrong. Please try again later."
+    }
+  }
+}

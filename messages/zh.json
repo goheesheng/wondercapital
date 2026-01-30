@@ -1,0 +1,348 @@
+{
+  "HomePage": {
+    "nav": {
+      "about": "关于我们",
+      "howItWorks": "运作方式",
+      "howItWorksNav": {
+        "item1": {
+          "title": "万得公司成立",
+          "desc": "公司注册与公司秘书服务"
+        },
+        "item2": {
+          "title": "虚拟银行服务",
+          "desc": "POS 解决方案及软硬件整合"
+        },
+        "item3": {
+          "title": "商户收单",
+          "desc": "银行卡发行及线上支付 POS"
+        }
+      },
+      "contact": "联系我们",
+      "selectLanguage": "选择语言"
+    },
+    "hero": {
+      "badge": "高端数字钱包",
+      "title": "真正体验",
+      "highlight": "无国界银行服务",
+      "description": "成为你一直想成为的全球企业家，不要让金融边界限制你的交易。让我们引导你跨越第一个金融门槛。",
+      "cta": "联系我们"
+    },
+    "features": {
+      "badge": "我们的功能",
+      "title1": "一站式",
+      "title2": "支付平台",
+      "collectTitle": "像本地人一样收款",
+      "collectDesc": "即时获取 33 个本地账户信息，轻松、低成本地接收国际付款。",
+      "instantTitle": "即时转账",
+      "more": "以及更多…",
+      "instantDesc": "绕过 3–5 天的 SWIFT 延迟，直接在平台内完成兑换与支付。",
+      "trackingTitle": "实时追踪",
+      "trackingDesc": "为团队发行实体卡和虚拟卡，并进行实时支出控制。交易自动同步并分类，简化财务管理。"
+    },
+    "assurance": {
+      "partner": "官方合作伙伴",
+      "badge": "我们的保障",
+      "title": "值得信赖的支付安全",
+      "regulatory": "资金监管与合规保障",
+      "regulatoryDesc1": "我们完全遵守",
+      "regulatoryDesc2": "新加坡《2019 年支付服务法案（PSA）》",
+      "regulatoryDesc3": "的所有相关规定。",
+      "safeguarding": "客户资金保障",
+      "safeguarding1": "独立分隔的客户",
+      "safeguarding2": "信托账户作为托管机制，",
+      "safeguarding3": "确保客户资金完全受保护，不会用于公司运营。"
+    },
+    "comparison": {
+      "badge": "对比",
+      "title": "速度与成本优势的明确选择",
+      "col1": "Wonder Capital",
+      "col2": "传统 SWIFT",
+      "col1value1": "在钱包平台内即时兑换货币，无手续费",
+      "col1value2": "即时 / 当日到账",
+      "col1value3": "具竞争力且透明的外汇点差，无隐藏费用",
+      "col1value4": "高性价比、全透明，我们为你处理复杂流程",
+      "col2value1": "可能存在汇率“费用”及兑换限制",
+      "col2value2": "3–5 个工作日",
+      "col2value3": "约 35–45 美元费用（含电汇费、银行费、卡费）",
+      "col2value4": "每个步骤的复杂性和成本需自行管理"
+    },
+    "usecases": {
+      "title": "使用场景",
+      "description": "支持日常业务运营",
+      "description2": "一站式解决日常常见商业挑战",
+      "item1": {
+        "title": "快速且低成本的国际汇款",
+        "description1": "向远程团队发放薪资",
+        "description2": "处理海外报销",
+        "description3": "本币对账",
+        "description4": "接收融资 / 资本"
+      },
+      "item2": {
+        "title": "支付国际自由职业者 / 承包商",
+        "description1": "全球招聘顶尖人才",
+        "description2": "支付外包一次性费用",
+        "description3": "结算项目里程碑",
+        "description4": "处理押金与退款"
+      },
+      "item3": {
+        "title": "管理周期性供应商 / 订阅服务",
+        "description1": "软件与服务费用",
+        "description2": "每月定期服务费",
+        "description3": "发票结算",
+        "description4": "材料 / 商品采购"
+      }
+    },
+    "cta": {
+      "title": "准备解锁",
+      "highlight": "全球银行服务？",
+      "line1": "以本地同日到账的信心",
+      "line2": "在全球范围内高效运营"
+    },
+    "footer": {
+      "email": "邮箱",
+      "phone": "电话",
+      "description": "Wonder Capital 为当今快节奏世界提供现代数字银行服务。安全、智能、简单。",
+      "copyright": "© 2026 版权所有 Wonder Capital Limited"
+    }
+  },
+
+  "MarchantAcquiring": {
+    "hero": {
+      "badge": "商户收单",
+      "title": "全球收款",
+      "title2": "更快结算 · 无国界增长",
+      "btn": "立即开始"
+    },
+    "usecase": {
+      "badge": "使用场景",
+      "title": "为现代企业而生",
+      "item1": "电子商务",
+      "item2": "零售门店",
+      "item3": "SaaS",
+      "item4": "教育",
+      "item5": "旅游",
+      "item6": "数字服务",
+      "item7": "生活方式",
+      "item8": "餐饮"
+    },
+    "overview": {
+      "badge": "概览",
+      "title": "什么是商户收单？",
+      "desc": "商户收单是一项服务，使您的企业能够接受银行卡支付（如 Visa、Mastercard 等），并将资金直接结算至您的账户。看似简单，但背后涉及多个流程。",
+      "item1": "我们在后台为您处理：",
+      "item2": "支付授权",
+      "item3": "卡组织处理",
+      "item4": "欺诈监控",
+      "item5": "结算与付款",
+      "item6": "企业合规",
+      "item7": "风险管理",
+      "item8": "拒付 / 退款",
+      "item9": "审计与记账",
+      "item10": "API 集成"
+    },
+    "readytostart": {
+      "title1": "准备开始",
+      "title2": "接受付款了吗？",
+      "title3": "我们不仅是支付处理商 ——",
+      "title4": "更是您的支付增长伙伴。",
+      "btn": "联系团队"
+    },
+    "whatyouget": {
+      "badge": "您将获得",
+      "title": "企业所需的支付基础设施",
+      "desc": "通过现代化的商户收单解决方案，为您的业务提供安全、合规、快速的收款、结算和换汇能力。复杂事务交给我们。",
+      "card1": "全球银行卡受理",
+      "card1Desc1": "支持来自",
+      "card1Desc2": "全球主要卡组织的付款",
+      "card1Desc3": "通过智能路由和优化处理",
+      "card1Desc4": "降低误拒率。",
+      "card2": "强大平台与具竞争力的费用",
+      "card2Desc1": "更快",
+      "card2Desc2": "缩短托管周期，加速资金到账",
+      "card2Desc3": "改善现金流。价格透明，",
+      "card2Desc4": "外汇兑换费用接近零",
+      "card3": "资金监管与合规",
+      "card3Desc1": "完全遵守",
+      "card3Desc2": "新加坡《2019 年支付服务法案（PSA）》",
+      "card3Desc3": "并配备先进的欺诈监控系统。",
+      "card4": "客户资金保障",
+      "card4Desc1": "独立分隔的客户",
+      "card4Desc2": "信托账户作为托管，",
+      "card4Desc3": "确保客户资金完全受保护，不用于公司运营。"
+    }
+  },
+
+  "WonderSetup": {
+    "hero": {
+      "badge": "公司注册",
+      "title": "在新加坡建立您的企业",
+      "highlight": "快速搭建 · 正确起航",
+      "cta": "立即开始"
+    },
+    "WhyUs": {
+      "badge": "为什么选择我们",
+      "title1": "完整的企业基础",
+      "title2": "Wonder Capital 独一无二",
+      "desc": "设立公司不应是一场官僚马拉松。在 Wonder Capital，我们将法律注册、银行开户及运营设置整合为一个高效流程。我们不仅提交文件，更为您构建立即开展业务、招聘和增长所需的基础。",
+      "card1": "我们的承诺",
+      "card1sub": "3 天保证完成注册",
+      "card1Desc1": "我们对流程充满信心，若在收到全部文件后",
+      "card1Desc2": "3 个工作日内未成功注册",
+      "card1Desc3": "您的公司，您将获得",
+      "card1Desc4": "100% 全额退款。",
+      "card2": "我们的原则",
+      "card2sub": "无隐藏费用",
+      "card2Desc1": "我们坚持高度透明。您将获得一个",
+      "card2Desc2": "价格清晰的一站式方案",
+      "card2Desc3": "涵盖全部设立流程，甚至可协助网站和工作准证。"
+    },
+    "WhyHere": {
+      "badge": "为什么是新加坡",
+      "title1": "在新加坡设立全球总部",
+      "desc": "新加坡长期被评为全球最适合经商的国家。在此注册不仅是成立公司，更是为指数级增长奠定基础。",
+      "card1": "战略与财务优势",
+      "card1Title": "亲商税制",
+      "card1Desc": "享受全球最具吸引力的税收体系之一，包括新创企业免税政策。",
+      "card2Title": "通往全球市场的门户",
+      "card2Desc": "卓越的国际声誉、亚洲战略位置和世界级连接。",
+      "button": "了解更多",
+      "card3": "运营与生活优势",
+      "card3Title": "世界级人才库",
+      "card3Desc": "接触高学历、多语言、专业化的人才。",
+      "card3Title1": "政治与经济稳定",
+      "card3Desc1": "在自然灾害风险低、法治健全的国家安心运营"
+    },
+    "process": {
+      "badge": "流程",
+      "title": "三步完成公司设立",
+      "title1": "咨询",
+      "description1": "通过安全门户提交公司信息与文件。",
+      "title2": "提交申请",
+      "description2": "我们向 ACRA 提交申请，保证计时从此开始。",
+      "title3": "完成注册",
+      "description3": "批准后，立即启动公司秘书、银行及卡片申请。"
+    },
+    "WhatYouGet": {
+      "badge": "您将获得",
+      "title": "Wonder Capital 一站式方案",
+      "title1": "公司注册套餐",
+      "card1": "公司注册",
+      "desc1": "从 ACRA 提交到虚拟地址申请",
+      "card2": "名义董事",
+      "desc2": "指定本地董事以满足法规要求",
+      "card3": "签证与雇佣",
+      "desc3": "超过 10 年经验，审批率 >99%",
+      "card4": "企业银行账户",
+      "desc4": "顺畅开通 DBS 银行账户",
+      "card5": "网站部署",
+      "desc5": "免费提供企业官网",
+      "card6": "卡片发行",
+      "desc6": "提供黑色 DCS CEO 企业卡"
+    },
+    "ReadyToLuanch": {
+      "badge": "准备起航",
+      "title1": "开启您的新加坡事业？",
+      "title2": "停止应对复杂的海外系统。",
+      "title3": "开始专注于业务增长。",
+      "btn": "联系我们"
+    }
+  },
+
+  "digitalPayment": {
+    "hero": {
+      "main": "两大引擎驱动您的现金流",
+      "title1": "收入",
+      "title1desc1": "接受全球付款",
+      "title1desc2": "随时随地收款",
+      "title2": "支出",
+      "title2desc1": "智能企业卡发行",
+      "title2desc2": "可控支出与洞察"
+    },
+    "companycard": {
+      "badge": "企业卡",
+      "title": "在线转账",
+      "title1": "集中管理所有",
+      "title2": "企业支出",
+      "desc": "告别繁琐报销和手动表格。发行实体或虚拟卡，在保持管控的同时赋能团队。",
+      "card1": "实时支出追踪",
+      "card1Desc1": "在仪表盘中即时查看每一笔交易",
+      "card1Desc2": "交易自动标签与分类",
+      "card1Desc3": "以行业领先汇率快速充值",
+      "card1Desc4": "上述操作均无隐藏费用",
+      "card2": "支出使用场景",
+      "card2Desc1": "汇款与薪资",
+      "card2Desc2": "报销 / 自由职业者 / 项目",
+      "card2Desc3": "软件订阅 / 服务费",
+      "card2Desc4": "节省审计与记账时间"
+    },
+    "paymentlinks": {
+      "badge": "支付链接",
+      "title": "POS 系统",
+      "title1": "管理您的",
+      "title2": "收入与现金流",
+      "desc": "全渠道支付平台，支持线上支付与线下 POS 收款。",
+      "card": "支持的货币",
+      "cardDesc": "支持 33 种货币在线收款，并按偏好货币对账",
+      "more": "以及更多…",
+      "card2": "支持的网络",
+      "card2Desc": "支持所有主要银行卡和数字钱包"
+    },
+    "questions": {
+      "badge": "常见问题",
+      "title": "常见问题解答",
+      "question1": "发送和接收资金涉及哪些费用？",
+      "answer1": "我们采用透明的收费结构，提供具有竞争力的发送与接收费用。具体定价请联系我们的团队。",
+      "question2": "多久可以为团队提供卡片或 POS 系统？",
+      "answer2": "虚拟卡可即时创建；实体卡 5–7 个工作日送达。POS 系统通常需要 3–5 个工作日。",
+      "question3": "是否可以将支付网关接入网站或 App？",
+      "answer3": "可以。我们提供完整的 API 文档与技术支持，确保顺利集成。",
+      "question4": "如果卡片或 POS 设备丢失或损坏怎么办？",
+      "answer4": "可立即冻结卡片并申请补发。POS 设备可根据保修条款维修或更换。",
+      "question5": "这如何帮助年度会计与记账？",
+      "answer5": "系统自动分类所有交易，轻松导出报表，节省时间并减少错误。"
+    },
+    "readystrams": {
+      "title1": "准备优化",
+      "title2": "您的财务管理？",
+      "title3": "将企业财务从",
+      "title4": "复杂负担转变为竞争优势",
+      "btn": "预约演示"
+    }
+  },
+  "ContactPage": {
+    "badge": "联系我们",
+    "title": "联系我们",
+    "description": "有问题或想了解更多？填写下方表格，我们的团队将尽快与您联系。",
+    "form": {
+      "firstName": "名",
+      "firstNamePlaceholder": "请输入您的名",
+      "lastName": "姓",
+      "lastNamePlaceholder": "请输入您的姓",
+      "email": "邮箱地址",
+      "emailPlaceholder": "your@email.com",
+      "company": "公司名称",
+      "companyPlaceholder": "您的公司",
+      "subject": "主题",
+      "subjectPlaceholder": "请选择主题",
+      "subjects": {
+        "general": "一般咨询",
+        "partnership": "合作机会",
+        "support": "技术支持",
+        "enterprise": "企业解决方案",
+        "other": "其他"
+      },
+      "message": "留言",
+      "messagePlaceholder": "请告诉我们如何为您提供帮助...",
+      "submit": "发送消息",
+      "sending": "发送中..."
+    },
+    "success": {
+      "title": "消息已发送！",
+      "message": "感谢您的留言，我们将在 24-48 小时内回复您。",
+      "sendAnother": "发送另一条消息"
+    },
+    "error": {
+      "message": "发生错误，请稍后重试。"
+    }
+  }
+}
